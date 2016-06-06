@@ -8,7 +8,7 @@ import gov.nysenate.ess.supply.item.SupplyItem;
  * An item's visibility, order quantities, and quantity ordered month-to-date
  * is location specific and stored in this object.
  */
-public class ItemAllowance { // nothin
+public class ItemAllowance { // nothin What's up
 
     private SupplyItem supplyItem;
     private ItemVisibility visibility;
